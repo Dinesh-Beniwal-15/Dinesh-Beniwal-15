@@ -44,7 +44,7 @@
 ```typescript
 const dineshBeniwal: Engineer = {
   role:         "Backend Developer Intern @ BrainMint Pvt. Ltd.",
-  education:    "B.Tech CSE (AI & ML) — SRM IST | CGPA: 9.50",
+  education:    "B.Tech CSE (AI & ML) — SRM IST | CGPA: 9.57",
   location:     "Chennai, Tamil Nadu, India",
   focus:        ["Backend Engineering", "Full Stack Development", "AI/ML Applications"],
   currentWork:  "Building RESTful APIs & scalable backend systems with Node.js + MongoDB",
