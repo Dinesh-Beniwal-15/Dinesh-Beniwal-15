@@ -1,405 +1,470 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Dinesh%20Beniwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dinesh%20Beniwal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineering+Student;Backend+Developer;Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Learner"/>
+<br/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+scalable+backend+systems+%F0%9F%9A%80;AI+%26+ML+enthusiast+crafting+intelligent+apps+%F0%9F%A7%A0;Full+stack+engineer+%E2%80%94+Node.js+%7C+React+%7C+MongoDB)](https://git.io/typing-svg)
 
-![](https://img.shields.io/badge/SRM%20Institute%20of%20Science%20and%20Technology-Student-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-9.50%2F10-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20%26%20ML-Specialization-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Backend-Developer-6366F1?style=for-the-badge)
+<br/>
 
-![](https://img.shields.io/badge/Location-Chennai%2C%20India-4F46E5?style=for-the-badge)
+![B.Tech CSE AI/ML](https://img.shields.io/badge/B.Tech_CSE-AI_%26_ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![SRM IST](https://img.shields.io/badge/SRM_IST-Kattankulathur-6D28D9?style=for-the-badge&logo=university&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.50%2F10-4C1D95?style=for-the-badge&logo=star&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logoColor=white)
 
-<br>
+<br/>
 
-<a href="https://dineshbeniwal.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+![Location](https://img.shields.io/badge/📍_Chennai,_Tamil_Nadu-India-8B5CF6?style=flat-square&logoColor=white)
+![Open to Work](https://img.shields.io/badge/🟢_Open_To-Internships_%26_Full--time-10B981?style=flat-square)
 
-<a href="https://www.linkedin.com/in/dineshbeniwal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="mailto:dineshbeniwal1515@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshbeniwal/)
+[![Email](https://img.shields.io/badge/Email-dineshbeniwal1515@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshbeniwal1515@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
 
-<a href="https://github.com/Dinesh-Beniwal-15">
-<img src="https://img.shields.io/badge/GitHub-Profile-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=Dinesh-Beniwal-15&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Dinesh-Beniwal-15?style=for-the-badge&color=4F46E5)
-![](https://img.shields.io/github/stars/Dinesh-Beniwal-15?style=for-the-badge&color=8B5CF6)
+![Profile Views](https://komarev.com/ghpvc/?username=Dinesh-Beniwal-15&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Dinesh-Beniwal-15?style=for-the-badge&color=6D28D9&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Dinesh-Beniwal-15?style=for-the-badge&color=5B21B6&label=TOTAL+STARS)
 
 </div>
 
 ---
 
-# About Me
+<div align="center">
 
-Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology** with a strong academic record and hands-on experience in backend engineering, full-stack development, and AI-focused software solutions.
+## ◈ About Me
 
-I enjoy designing scalable systems, building RESTful APIs, working with databases, and developing products that solve real-world problems. My engineering approach focuses on writing maintainable code, understanding system design fundamentals, and continuously improving through practical projects and internships.
+</div>
 
-### Open To
+```typescript
+const dineshBeniwal: Engineer = {
+  role:         "Backend Developer Intern @ BrainMint Pvt. Ltd.",
+  education:    "B.Tech CSE (AI & ML) — SRM IST | CGPA: 9.50",
+  location:     "Chennai, Tamil Nadu, India",
+  focus:        ["Backend Engineering", "Full Stack Development", "AI/ML Applications"],
+  currentWork:  "Building RESTful APIs & scalable backend systems with Node.js + MongoDB",
+  learning:     ["Advanced DSA", "System Design", "LLM Applications"],
+  openTo:       ["SDE Internships", "Backend Roles", "AI/ML Engineering", "Full-time SWE"],
+};
+```
 
-- Software Engineering Internships
-- Backend Development Roles
-- Full Stack Development Opportunities
-- AI/ML Engineering Projects
-- Open Source Contributions
-- Research Collaborations
+<br/>
+
+I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning** at SRM Institute of Science and Technology. With a CGPA of **9.50/10**, I focus on engineering production-grade backend systems, building full-stack web applications, and applying AI/ML to solve real-world problems.
+
+Currently working as a **Backend Developer Intern at BrainMint Pvt. Ltd.**, where I design and develop RESTful APIs, implement authentication systems, optimize database queries, and collaborate on scalable backend architectures using **Node.js, Express.js, and MongoDB**.
+
+My work spans full-stack engineering, database design through 5NF, AI model evaluation, and cloud deployment — with a strong foundation in **Java, DSA, OOP, and DBMS**.
+
+<br/>
+
+**⟶ Open To:** Backend Internships · Full Stack Roles · AI/ML Engineering · SDE Programs · Research Opportunities
 
 ---
 
-# Tech Stack
+<div align="center">
+
+## ◈ Tech Stack
+
+</div>
+
+<div align="center">
 
 ### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,js&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-# AI / ML Expertise
+<div align="center">
+
+## ◈ AI / ML Expertise
+
+</div>
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Intermediate | Supervised Learning, Model Evaluation |
-| Generative AI | Intermediate | Prompt Engineering & AI Workflows |
-| AI Foundations | Advanced | OCI AI Foundations Certified |
-| Data Processing | Intermediate | Data Cleaning & Analysis Fundamentals |
-| AI Applications | Intermediate | AI-powered Web Solutions |
-| Research Analytics | Intermediate | Citation & Impact Tracking Systems |
+|:---|:---:|:---|
+| **Machine Learning Fundamentals** | ⬛⬛⬛⬛⬜ | Supervised learning, model evaluation, data preprocessing |
+| **Generative AI** | ⬛⬛⬛⬛⬜ | LLM applications, prompt engineering, AWS Bedrock concepts |
+| **Neural Networks** | ⬛⬛⬛⬜⬜ | TensorFlow, object detection, deep learning pipelines |
+| **Oracle AI Cloud** | ⬛⬛⬛⬛⬜ | OCI AI Foundations certified, AI/ML service integration |
+| **AI Application Development** | ⬛⬛⬛⬛⬜ | Flask APIs, Anthropic API, AI-powered web platforms |
+| **Data Analysis & Statistics** | ⬛⬛⬛⬜⬜ | Probability, Markov chains, queuing theory |
+| **NLP / Narrative Intelligence** | ⬛⬛⬛⬜⬜ | Sentiment analysis, market narrative scoring (NarrativeTrader) |
+
+</div>
 
 ---
 
-# Featured Projects
+<div align="center">
+
+## ◈ Featured Projects
+
+</div>
 
 <details>
-<summary><b>🏠 WanderLust — Airbnb Inspired Web Application</b></summary>
+<summary><strong>🔗 WanderLust — Airbnb Inspired Full-Stack Web Application</strong></summary>
+<br/>
 
-### Overview
+> A production-grade, full-stack vacation rental platform engineered for performance, security, and scale — built from the ground up with an MVC architecture.
 
-A production-style full-stack property listing platform inspired by Airbnb featuring authentication, listing management, database integration, and responsive design.
+<div align="center">
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Node.js, Express.js, MongoDB, Bootstrap, JavaScript |
-| Scale | Multi-user Property Listing Platform |
-| Performance | Optimized CRUD Operations |
-| Security | Authentication & Authorization |
-| Impact | Real-world Booking Platform Simulation |
-| Repository | https://github.com/Dinesh-Beniwal-15/WanderLust |
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Node.js · Express.js · MongoDB · EJS · Cloudinary · Bootstrap |
+| **Architecture** | MVC (Model-View-Controller) |
+| **Auth** | Secure login & signup with session-based authentication |
+| **Database** | MongoDB with CRUD operations, image storage via Cloudinary |
+| **UI** | Fully responsive — mobile & desktop compatible |
+| **Backend** | RESTful API design, middleware pipeline, data validation |
+| **Repository** | [github.com/Dinesh-Beniwal-15](https://github.com/Dinesh-Beniwal-15) |
 
-#### Key Features
+</div>
 
-- Secure User Authentication
-- Property Listing Management
-- MongoDB Database Integration
-- Responsive UI
-- RESTful API Architecture
-- Scalable Backend Structure
+**Engineering Highlights:**
+- Designed and implemented the complete MVC architecture from scratch — separation of routing, business logic, and view templating
+- Integrated **Cloudinary** for cloud-based image upload and serving for property listings
+- Built a secure **session-based authentication** system with hashed credentials
+- Developed **RESTful API endpoints** for property CRUD, user management, and listing search
+- Engineered **responsive UI** across breakpoints using Bootstrap, ensuring cross-device compatibility
 
 </details>
 
+<br/>
+
 <details>
-<summary><b>📚 Research Paper Citation & Impact Tracking System</b></summary>
+<summary><strong>📄 Research Paper Citation & Impact Tracking System</strong></summary>
+<br/>
 
-### Overview
+> A full-stack academic intelligence platform for managing and analyzing research paper citations, publication impact, and year-wise contribution analytics.
 
-Research management platform designed to track citation metrics, publication analytics, and research paper records using modern full-stack technologies.
+<div align="center">
 
-| Category | Details |
-|-----------|-----------|
-| Stack | React.js, Node.js, Express.js, MySQL |
-| Scale | Research Analytics Platform |
-| Performance | Dashboard-based Analytics |
-| Security | Structured Database Access |
-| Impact | Academic Research Management |
-| Repository | Private Repository |
+| Attribute | Details |
+|:---|:---|
+| **Stack** | React.js · Node.js · Express.js · MySQL · HTML · CSS · JavaScript |
+| **Database** | MySQL with normalized schema (up to 5NF), ER diagrams, relational integrity |
+| **Architecture** | REST API backend + React SPA frontend |
+| **Dashboard** | Interactive analytics — total papers, top-cited, year-wise trends |
+| **Features** | Add, edit, delete, view papers · PDF upload & in-platform viewing |
+| **Security** | Input validation, parameterized queries, secure file handling |
+| **Repository** | [github.com/Dinesh-Beniwal-15](https://github.com/Dinesh-Beniwal-15) |
 
-#### Key Features
+</div>
 
-- Citation Tracking
-- Publication Analytics
-- Interactive Dashboard
-- PDF Upload & Viewer
-- Research Paper Management
-- Year-wise Insights
+**Engineering Highlights:**
+- Designed a fully **normalized relational schema** (1NF → 5NF) with ER diagrams and relational schemas
+- Built an **interactive analytics dashboard** aggregating citation metrics and publication trends
+- Implemented **PDF upload and in-platform viewer** using file handling middleware
+- Developed a complete **REST API** layer with Express.js for all CRUD operations
+- Applied **DBMS triggers and cursors** for automated data integrity enforcement
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>📈 NarrativeTrader — AI-Powered Market Narrative Intelligence Platform</strong></summary>
+<br/>
+
+> An AI-powered financial intelligence tool that extracts and scores market narratives from live news and social media to generate a proprietary Narrative Shift Score for stock tickers.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Flask · React · Anthropic API · NewsAPI · Reddit PRAW · yFinance |
+| **AI Core** | Anthropic Claude API for narrative extraction and sentiment scoring |
+| **Data Sources** | Live financial news (NewsAPI) + Reddit threads (PRAW) + stock data (yFinance) |
+| **Output** | Proprietary Narrative Shift Score per ticker |
+| **Event** | HackNova 3.0 — Team Syntax Error (March 2026) |
+| **Repository** | [github.com/Dinesh-Beniwal-15](https://github.com/Dinesh-Beniwal-15) |
+
+</div>
+
+**Engineering Highlights:**
+- Integrated **Anthropic Claude API** for AI-driven financial narrative analysis and scoring
+- Built a **multi-source data pipeline** aggregating news, Reddit, and live stock data in real-time
+- Designed a **proprietary Narrative Shift Score** algorithm combining sentiment and market signal strength
+- Delivered end-to-end in a **hackathon environment** — full prototype from idea to demo in 24 hours
+- Architected Flask backend with React frontend for fast, interactive data visualization
 
 </details>
 
 ---
 
-# Experience
-
-## Backend Developer Intern — BrainMint Pvt. Ltd.
-
-**May 2026 – Present**
-
-Working on backend services and scalable API development using Node.js, Express.js, and MongoDB.
-
-### Responsibilities
-
-- Developing RESTful APIs
-- Database Design & Optimization
-- Authentication & Authorization
-- Backend Testing & Debugging
-- Performance Optimization
-- Team Collaboration
-
-**Skills**
-
-`Node.js` `Express.js` `MongoDB` `REST APIs` `Backend Engineering`
-
----
-
-## Google AI/ML Virtual Internship
-
-**Jan 2026 – Mar 2026**
-
-Worked on AI concepts, machine learning workflows, and model evaluation fundamentals.
-
-### Scope
-
-- Machine Learning Fundamentals
-- Data Processing Concepts
-- AI Workflow Understanding
-- Model Evaluation
-
-**Skills**
-
-`Machine Learning` `AI` `Data Processing`
-
----
-
-## Full Stack Developer Intern — Future Interns
-
-**Jan 2026 – Feb 2026**
-
-Contributed to backend functionality development and gained practical exposure to full-stack workflows.
-
-### Scope
-
-- Backend Features
-- Database Integration
-- REST APIs
-- Full Stack Architecture
-
-**Skills**
-
-`Node.js` `Databases` `Web Development`
-
----
-
-## AWS GenAI Virtual Internship
-
-**Oct 2025 – Dec 2025**
-
-Explored Generative AI applications and cloud-based AI workflows.
-
-### Scope
-
-- Prompt Engineering
-- Generative AI
-- AWS Services
-- AI Use Cases
-
-**Skills**
-
-`AWS` `GenAI` `Cloud Computing`
-
----
-
-# Achievements
-
 <div align="center">
 
-| Recognition | Details |
-|-------------|-------------|
-| Academic Excellence | Maintained CGPA of 9.50/10 |
-| NPTEL Programming in Java | Achieved 91% Score |
-| Oracle AI Foundations | OCI Certified Associate |
-| JPMorgan Simulation | Completed Software Engineering Simulation |
-| Multiple Internships | Backend, Full Stack, AI/ML & GenAI |
-| Project Development | Built Full Stack Production Applications |
+## ◈ Work Experience
 
 </div>
 
----
+### 🏢 Backend Developer Intern · BrainMint Pvt. Ltd.
+`May 2026 – Present` · Remote, Chennai
 
-# Certifications
+> Engineering production backend systems for scalable web applications, with focus on API design, authentication, and database optimization.
 
-### AWS
+- Developing **RESTful APIs** using Node.js and Express.js for web application features
+- Managing **MongoDB** database design, CRUD operations, and query performance optimization
+- Implementing **authentication and authorization** mechanisms — JWT, session management, secure API practices
+- Collaborating cross-functionally with developers to architect and maintain scalable backend services
+- Conducting **debugging, testing, and performance profiling** to ensure system reliability
 
-![](https://img.shields.io/badge/AWS-GenAI%20Virtual%20Internship-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming%20In%20Java%20(91%25)-0A66C2?style=for-the-badge)
-
-### JPMorgan Chase & Co.
-
-![](https://img.shields.io/badge/JPMorgan-Software%20Engineering%20Simulation-2E77BC?style=for-the-badge)
-
-### Google
-
-![](https://img.shields.io/badge/Google-AI%20ML%20Virtual%20Internship-4285F4?style=for-the-badge&logo=google)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-# Coding Profiles
+### 🏢 Google AI ML Virtual Internship · Google
+`Jan 2026 – Mar 2026` · Virtual
+
+- Completed machine learning fundamentals including supervised learning and model evaluation workflows
+- Worked on virtual AI tasks involving data preprocessing, feature engineering, and practical ML applications
+- Explored AI application design patterns and end-to-end model deployment concepts
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square&logoColor=white)
+
+---
+
+### 🏢 Full Stack Developer Intern · Future Interns
+`Jan 2026 – Feb 2026` · Virtual
+
+- Developed backend functionalities for web applications using REST APIs and database integration
+- Gained hands-on experience across the full-stack development lifecycle from schema design to UI
+- Improved understanding of software engineering best practices, version control, and team collaboration
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🏢 Gen AI Virtual Internship · AWS (AICTE–EduSkills)
+`Oct 2025 – Dec 2025` · Virtual
+
+- Explored Generative AI concepts, prompt engineering, and AWS cloud AI services
+- Worked on AI-based use cases and application workflows using AWS Bedrock and related tools
+- Completed a 10-week structured program covering TensorFlow, neural networks, and object detection
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
 
 <div align="center">
 
-<a href="https://leetcode.com/u/w1kv3oDwCw/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank"/>
-
-<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge&logo=codechef"/>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinesh-Beniwal-15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh-Beniwal-15&theme=tokyonight&hide_border=true"/>
+## ◈ Achievements
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-Beniwal-15&layout=compact&theme=tokyonight&hide_border=true"/>
+| 🏆 Recognition | Details |
+|:---:|:---|
+| **CGPA 9.50 / 10** | Top academic performer — B.Tech CSE AI & ML, SRM IST |
+| **NPTEL Java — 91%** | Elite score in Programming in Java, NPTEL (Oct 2025) |
+| **HackNova 3.0** | Built NarrativeTrader — AI market intelligence platform — with Team Syntax Error |
+| **OCI AI Certified** | Oracle Cloud Infrastructure AI Foundations Associate (ID: 102780305OCI25AICFA) |
+| **JPMorgan Chase SWE Sim** | Completed enterprise engineering tasks — Kafka, H2, REST API integration |
+| **ICEBRKR Offer** | Pre-placement offer from AI software company with offices in Switzerland & Nepal |
+| **Class XII — 76.4%** | CBSE (MPC) · Sri Chaitanya Techno School, Chennai |
+| **Class X — 83%** | CBSE · Sri Chaitanya Techno School, Chennai |
 
 </div>
 
 ---
-
-# GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dinesh-Beniwal-15&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+## ◈ Certifications
 
 </div>
-
----
-
-# Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-Beniwal-15&theme=tokyo-night&hide_border=true"/>
+**AWS / AICTE**
+
+[![AWS Gen AI](https://img.shields.io/badge/AWS_Gen_AI_Virtual_Internship-AICTE_EduSkills-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
+
+**Oracle**
+
+[![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
+
+**NPTEL**
+
+[![NPTEL Java](https://img.shields.io/badge/Programming_in_Java-NPTEL_91%25-0066B3?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
+
+**JPMorgan Chase**
+
+[![JPMorgan SWE](https://img.shields.io/badge/Software_Engineering_Job_Simulation-JPMorgan_Chase_%26_Co.-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
+
+**Google**
+
+[![Google AI ML](https://img.shields.io/badge/Google_AI_ML_Virtual_Internship-EduSkills_Foundation-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://certificate.eduskillsfoundation.org/verify/45d2b81151827d1c4f1e/45d2b81151827d1c4f1e)
+
+**Infosys**
+
+[![Infosys Java](https://img.shields.io/badge/Programming_Using_Java-Infosys_Springboard-0066CC?style=for-the-badge&logo=infosys&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
 
 </div>
 
 ---
-
-# Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dinesh-Beniwal-15/Dinesh-Beniwal-15/output/github-contribution-grid-snake-dark.svg"/>
+## ◈ Coding Profiles
+
+</div>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
 
 ---
 
-# Current Focus
+<div align="center">
+
+## ◈ GitHub Analytics
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinesh-Beniwal-15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-Beniwal-15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Dinesh-Beniwal-15&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=6D28D9" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ GitHub Trophies
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dinesh-Beniwal-15&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ Contribution Activity
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh-Beniwal-15&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ Contribution Snake
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/Dinesh-Beniwal-15/Dinesh-Beniwal-15/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ Current Focus
+
+</div>
 
 ```yaml
-Learning:
-  - Data Structures & Algorithms
-  - System Design Fundamentals
-  - Advanced Backend Engineering
-  - Machine Learning
+# Dinesh Beniwal — Q3 2026 Engineering Focus
 
-Building:
-  - Full Stack Applications
-  - Scalable REST APIs
-  - AI-Powered Solutions
+learning:
+  - Advanced Data Structures & Algorithms (Striver A2Z + LeetCode FAANG prep)
+  - System Design fundamentals (HLD + LLD)
+  - Spring Boot & Java backend ecosystem
+  - TypeScript & advanced React patterns
 
-Exploring:
-  - Cloud Technologies
-  - Generative AI
-  - Open Source Contributions
+building:
+  - Production-grade REST APIs at BrainMint Pvt. Ltd.
+  - Personal portfolio with AI-powered features
+  - DSA problem set library (targeting 300+ problems)
 
-Open_To:
-  - Software Engineering Internships
-  - Backend Development Roles
-  - AI/ML Opportunities
-  - Open Source Collaboration
+exploring:
+  - LLM integration in web applications (Anthropic API)
+  - RAG pipelines and vector databases
+  - Cloud deployment on AWS (EC2, S3, Lambda)
+  - DevOps basics — Docker, CI/CD pipelines
+
+open_to:
+  - SDE Internships (2026–2027)
+  - Backend / Full Stack Engineering Roles
+  - AI/ML Engineering Opportunities
+  - FAANG / Product company placements (2027)
+  - Research collaborations in AI & systems
+
+target_companies:
+  - Google · Microsoft · Amazon · Flipkart
+  - Goldman Sachs · JPMorgan · Atlassian
+  - Startups with strong engineering culture
 ```
 
 ---
 
-# Connect
-
 <div align="center">
 
-<a href="mailto:dineshbeniwal1515@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## ◈ Connect With Me
 
-<a href="https://www.linkedin.com/in/dineshbeniwal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://github.com/Dinesh-Beniwal-15">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-dineshbeniwal1515@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshbeniwal1515@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh_Beniwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshbeniwal/)
+[![GitHub](https://img.shields.io/badge/GitHub-Dinesh--Beniwal--15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinesh-Beniwal-15)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_6369814405-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916369814405)
 
-<a href="https://dineshbeniwal.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<br/>
 
-</div>
+> *"The best engineers don't just write code — they architect solutions, engineer systems, and ship products that matter."*
 
----
+<br/>
 
-<div align="center">
-
-*"Engineering intelligent systems today for the scalable products of tomorrow."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
