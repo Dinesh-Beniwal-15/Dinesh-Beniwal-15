@@ -10,7 +10,7 @@
 
 ![B.Tech CSE AI/ML](https://img.shields.io/badge/B.Tech_CSE-AI_%26_ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![SRM IST](https://img.shields.io/badge/SRM_IST-Kattankulathur-6D28D9?style=for-the-badge&logo=university&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-9.50%2F10-4C1D95?style=for-the-badge&logo=star&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.57%2F10-4C1D95?style=for-the-badge&logo=star&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logoColor=white)
 
 <br/>
@@ -55,7 +55,7 @@ const dineshBeniwal: Engineer = {
 
 <br/>
 
-I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning** at SRM Institute of Science and Technology. With a CGPA of **9.50/10**, I focus on engineering production-grade backend systems, building full-stack web applications, and applying AI/ML to solve real-world problems.
+I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning** at SRM Institute of Science and Technology. With a CGPA of **9.57/10**, I focus on engineering production-grade backend systems, building full-stack web applications, and applying AI/ML to solve real-world problems.
 
 Currently working as a **Backend Developer Intern at BrainMint Pvt. Ltd.**, where I design and develop RESTful APIs, implement authentication systems, optimize database queries, and collaborate on scalable backend architectures using **Node.js, Express.js, and MongoDB**.
 
@@ -185,33 +185,6 @@ My work spans full-stack engineering, database design through 5NF, AI model eval
 
 <br/>
 
-<details>
-<summary><strong>📈 NarrativeTrader — AI-Powered Market Narrative Intelligence Platform</strong></summary>
-<br/>
-
-> An AI-powered financial intelligence tool that extracts and scores market narratives from live news and social media to generate a proprietary Narrative Shift Score for stock tickers.
-
-<div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Flask · React · Anthropic API · NewsAPI · Reddit PRAW · yFinance |
-| **AI Core** | Anthropic Claude API for narrative extraction and sentiment scoring |
-| **Data Sources** | Live financial news (NewsAPI) + Reddit threads (PRAW) + stock data (yFinance) |
-| **Output** | Proprietary Narrative Shift Score per ticker |
-| **Event** | HackNova 3.0 — Team Syntax Error (March 2026) |
-| **Repository** | [github.com/Dinesh-Beniwal-15](https://github.com/Dinesh-Beniwal-15) |
-
-</div>
-
-**Engineering Highlights:**
-- Integrated **Anthropic Claude API** for AI-driven financial narrative analysis and scoring
-- Built a **multi-source data pipeline** aggregating news, Reddit, and live stock data in real-time
-- Designed a **proprietary Narrative Shift Score** algorithm combining sentiment and market signal strength
-- Delivered end-to-end in a **hackathon environment** — full prototype from idea to demo in 24 hours
-- Architected Flask backend with React frontend for fast, interactive data visualization
-
-</details>
 
 ---
 
@@ -288,7 +261,7 @@ My work spans full-stack engineering, database design through 5NF, AI model eval
 
 | 🏆 Recognition | Details |
 |:---:|:---|
-| **CGPA 9.50 / 10** | Top academic performer — B.Tech CSE AI & ML, SRM IST |
+| **CGPA 9.57 / 10** | Top academic performer — B.Tech CSE AI & ML, SRM IST |
 | **NPTEL Java — 91%** | Elite score in Programming in Java, NPTEL (Oct 2025) |
 | **HackNova 3.0** | Built NarrativeTrader — AI market intelligence platform — with Team Syntax Error |
 | **OCI AI Certified** | Oracle Cloud Infrastructure AI Foundations Associate (ID: 102780305OCI25AICFA) |
@@ -409,42 +382,6 @@ My work spans full-stack engineering, database design through 5NF, AI model eval
 
 <div align="center">
 
-## ◈ Current Focus
-
-</div>
-
-```yaml
-# Dinesh Beniwal — Q3 2026 Engineering Focus
-
-learning:
-  - Advanced Data Structures & Algorithms (Striver A2Z + LeetCode FAANG prep)
-  - System Design fundamentals (HLD + LLD)
-  - Spring Boot & Java backend ecosystem
-  - TypeScript & advanced React patterns
-
-building:
-  - Production-grade REST APIs at BrainMint Pvt. Ltd.
-  - Personal portfolio with AI-powered features
-  - DSA problem set library (targeting 300+ problems)
-
-exploring:
-  - LLM integration in web applications (Anthropic API)
-  - RAG pipelines and vector databases
-  - Cloud deployment on AWS (EC2, S3, Lambda)
-  - DevOps basics — Docker, CI/CD pipelines
-
-open_to:
-  - SDE Internships (2026–2027)
-  - Backend / Full Stack Engineering Roles
-  - AI/ML Engineering Opportunities
-  - FAANG / Product company placements (2027)
-  - Research collaborations in AI & systems
-
-target_companies:
-  - Google · Microsoft · Amazon · Flipkart
-  - Goldman Sachs · JPMorgan · Atlassian
-  - Startups with strong engineering culture
-```
 
 ---
 
