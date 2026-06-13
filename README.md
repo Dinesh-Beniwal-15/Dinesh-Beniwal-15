@@ -266,7 +266,6 @@ My work spans full-stack engineering, database design through 5NF, AI model eval
 | **HackNova 3.0** | Built NarrativeTrader — AI market intelligence platform — with Team Syntax Error |
 | **OCI AI Certified** | Oracle Cloud Infrastructure AI Foundations Associate (ID: 102780305OCI25AICFA) |
 | **JPMorgan Chase SWE Sim** | Completed enterprise engineering tasks — Kafka, H2, REST API integration |
-| **ICEBRKR Offer** | Pre-placement offer from AI software company with offices in Switzerland & Nepal |
 | **Class XII — 76.4%** | CBSE (MPC) · Sri Chaitanya Techno School, Chennai |
 | **Class X — 83%** | CBSE · Sri Chaitanya Techno School, Chennai |
 
