@@ -139,7 +139,7 @@ My work spans full-stack engineering, database design through 5NF, AI model eval
 | **Database** | MongoDB with CRUD operations, image storage via Cloudinary |
 | **UI** | Fully responsive — mobile & desktop compatible |
 | **Backend** | RESTful API design, middleware pipeline, data validation |
-| **Repository** | [github.com/Dinesh-Beniwal-15](https://github.com/Dinesh-Beniwal-15) |
+| **Repository** | [github.com/Dinesh-Beniwal-15](https://github.com/Dinesh-Beniwal-15/WanderLust) |
 
 </div>
 
